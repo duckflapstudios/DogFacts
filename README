@@ -1,0 +1,5 @@
+This is a modified version of CatFacts, to provide different dog facts.  Just move the files into a folder called dogfacts in ~/plugins.  Then simply add dogfacts to your plugins.conf file and you are done!
+
+Thanks to funnyfidos.com for the facts!
+
+To use it say something with dog facts to Siri, like: "tell me a dog fact"
